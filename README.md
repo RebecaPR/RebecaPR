@@ -1,5 +1,10 @@
 ### Olá mundo! 🌎
 
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/110126661/187290863-befbc35f-e1b4-48b8-8f2e-da878a9b494a.gif)
+
+
+
 👋 Eu sou a Rebeca 😊 Sejam muito bem-vindos ao meu perfil!😉✨
 
 
@@ -18,4 +23,4 @@
 ![Snake animation](https://github.com/rebecaPR/rebecaPR/blob/output/github-contribution-grid-snake.svg)
   </div>
   
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/110126661/187290863-befbc35f-e1b4-48b8-8f2e-da878a9b494a.gif)
+
