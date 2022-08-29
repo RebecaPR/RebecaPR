@@ -12,7 +12,7 @@
 </div>
 
 <div>
-src=https://tenor.com/view/baby-yoda-star-wars-mandalorian-hello-cute-gif-19912246
+"src=https://tenor.com/view/baby-yoda-star-wars-mandalorian-hello-cute-gif-19912246">
   <a href="https://www.linkedin.com/in/rebeca-ponciano-03376210a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/rebecaPR/rebecaPR/blob/output/github-contribution-grid-snake.svg)
