@@ -19,6 +19,9 @@
   
 <div>
   <a href="https://www.linkedin.com/in/rebeca-ponciano-03376210a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <a href="https://gitlab.com/RebecaPonciano><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+          
  
 ![Snake animation](https://github.com/rebecaPR/rebecaPR/blob/output/github-contribution-grid-snake.svg)
   </div>
