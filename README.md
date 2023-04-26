@@ -8,8 +8,6 @@
 👋 Eu sou a Rebeca 😊 Sejam muito bem-vindos ao meu perfil!😉✨
 
 
-🟡 Atualmente estou em uma transição de carreira para área de QA 😉🐞
-
 <div align="center">
   
    <a href="https://github.com/rebecaPR">
