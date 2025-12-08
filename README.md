@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas  
+## 🚀 Tecnologias, Ferramentas & Certificações  
 <div align="center">
   
   <!-- Badges principais -->
@@ -31,20 +31,19 @@
 
   <br><br>
 
-  <!-- Certificações com badges personalizados -->
-  <img src="YOUR_CTFL_IMAGE_URL" height="90" alt="CTFL ISTQB"/>
-  <img src="YOUR_CT_GENAI_IMAGE_URL" height="90" alt="CT-GenAI ISTQB"/>
+  <!-- Certificações personalizadas -->
+  <img src="https://raw.githubusercontent.com/RebecaPR/RebecaPR/3004c3d0fb7052e74819a0eeaeca6e235c0b034c/a-ctfl.png" alt="ISTQB CTFL" width="120" />
+  <img src="https://raw.githubusercontent.com/RebecaPR/RebecaPR/3004c3d0fb7052e74819a0eeaeca6e235c0b034c/a-ct-genai.png" alt="ISTQB CT-GenAI" width="120" />
 
   <br><br>
 
-  <!-- Automação e ferramentas -->
+  <!-- Ferramentas de Automação e outros -->
   <img src="https://img.shields.io/badge/Robot%20Framework-%2300A9A5?style=for-the-badge&logo=robotframework&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cypress-%2300BF7D?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/BrowserStack-%23F4A100?style=for-the-badge&logo=browserstack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Siebel-%2300286C?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 </div>
-
 
 ---
 
