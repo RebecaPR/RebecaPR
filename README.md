@@ -28,6 +28,10 @@
   <img src="https://img.shields.io/badge/Postman-F96C35?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Robot%20Framework-%2300A9A5?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-%2300BF7D?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BrowserStack-%23F4A100?style=for-the-badge&logo=browserstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Siebel-%2300286C?style=for-the-badge&logo=oracle&logoColor=white"/>
 
   <br><br>
 
@@ -36,12 +40,7 @@
   <img src="https://raw.githubusercontent.com/RebecaPR/RebecaPR/3004c3d0fb7052e74819a0eeaeca6e235c0b034c/a-ct-genai.png" alt="ISTQB CT-GenAI" width="120" />
 
   <br><br>
-
-  <!-- Ferramentas de Automação e outros -->
-  <img src="https://img.shields.io/badge/Robot%20Framework-%2300A9A5?style=for-the-badge&logo=robotframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cypress-%2300BF7D?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BrowserStack-%23F4A100?style=for-the-badge&logo=browserstack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Siebel-%2300286C?style=for-the-badge&logo=oracle&logoColor=white"/>
+  
 
 </div>
 
