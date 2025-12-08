@@ -31,32 +31,6 @@
 
 </div>
 
----
-
-## 📊 Minhas Estatísticas
-
-<div align="center">
-
-  <!-- Seguidores -->
-  <img src="https://img.shields.io/github/followers/rebecaPR?label=Seguidores&style=for-the-badge" alt="Seguidores GitHub"/>
-
-  <!-- Repositórios Públicos -->
-  <img src="https://img.shields.io/github/repos/rebecaPR?label=Reposit%C3%B3rios%20P%C3%BAblicos&style=for-the-badge" alt="Repositórios Públicos"/>
-
-  <!-- Commits no repositório do perfil -->
-  <img src="https://img.shields.io/github/last-commit/rebecaPR/rebecaPR?label=Último%20Commit%20no%20Perfil&style=for-the-badge" alt="Último Commit"/>
-
-  <!-- Linguagens mais usadas (Shields, versão estável) -->
-  <img src="https://img.shields.io/github/languages/top/rebecaPR/rebecaPR?label=Linguagem%20Mais%20Usada&style=for-the-badge" alt="Linguagem Mais Usada"/>
-
-  <br><br>
-
-  <!-- Snake (funciona se estiver configurado no seu repo) -->
-  <img src="https://github.com/rebecaPR/rebecaPR/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</div>
-
-
 
 ---
 
