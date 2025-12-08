@@ -36,12 +36,17 @@
 ## 📊 Minhas estatísticas  
 <div align="center">
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rebecaPR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaPR&layout=compact&langs_count=7&theme=dracula"/>
+  <!-- GitHub Stats -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rebecaPR&show_icons=true&theme=dracula&count_private=true" />
 
-  <!-- Streaks -->
-  <img height="150em" src="https://streak-stats.demolab.com?user=rebecaPR&theme=dracula&hide_border=false"/>
+  <!-- Top Langs -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaPR&layout=compact&theme=dracula"/>
+
+  <!-- Streak Stats (alternativa estável) -->
+  <img height="160em" src="https://streak-stats.demolab.com/?user=rebecaPR&theme=dracula" />
+
 </div>
+
 
 ---
 
