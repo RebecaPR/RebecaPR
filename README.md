@@ -29,6 +29,20 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
+  <br><br>
+
+  <!-- Certificações com badges personalizados -->
+  <img src="YOUR_CTFL_IMAGE_URL" height="90" alt="CTFL ISTQB"/>
+  <img src="YOUR_CT_GENAI_IMAGE_URL" height="90" alt="CT-GenAI ISTQB"/>
+
+  <br><br>
+
+  <!-- Automação e ferramentas -->
+  <img src="https://img.shields.io/badge/Robot%20Framework-%2300A9A5?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-%2300BF7D?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BrowserStack-%23F4A100?style=for-the-badge&logo=browserstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Siebel-%2300286C?style=for-the-badge&logo=oracle&logoColor=white"/>
+
 </div>
 
 
